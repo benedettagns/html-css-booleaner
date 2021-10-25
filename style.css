@@ -1,0 +1,48 @@
+header {
+    background: #398eee url(img/pattern.png)
+}
+
+th {
+    background-color: rgb(31, 121, 255);
+    color: white
+}
+
+/* classi utility */
+.evidenziatore {
+    background-color: rgb(255, 255, 0);
+}
+
+.intestazione {
+    color: rgb(83, 83, 83);
+}
+
+.riga-colorata {
+    background-color: rgb(11, 213, 240);
+}
+
+/* ------------ */
+
+#logo {
+    height: 80px;
+    margin: 80px 7px 12px
+}
+
+.descrizione {
+    font-size: 10px;
+}
+
+.foto1 {
+    background: url(img/monitor.jpg) no-repeat 50% 50%;
+    background-size: cover ;
+    width: 250px;
+    height: 250px;
+    color: white;
+}
+
+.foto2 {
+    background: url(img/graph.jpg) no-repeat 50% 50%;
+    background-size: cover ;
+    width: 250px;
+    height: 250px;
+    color: white;
+}
